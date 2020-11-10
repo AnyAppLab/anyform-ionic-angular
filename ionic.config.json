@@ -1,0 +1,7 @@
+{
+  "name": "anyform",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
